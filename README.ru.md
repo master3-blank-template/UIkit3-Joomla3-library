@@ -61,4 +61,4 @@
 
 ---
 
-UIkit – это проект с открытым исходным кодом, разрабатываемый [YOOtheme](http://yootheme.com/site/images/yootheme-logo.svg).
+UIkit – это проект с открытым исходным кодом, разрабатываемый [YOOtheme](http://yootheme.com/).
