@@ -10,7 +10,7 @@
 
 _description in Russian [here](README.ru.md)_
 
-Provides the work of templates [Master3](https://github.com/master3-blank-template/Master3) and [Master3Lite](https://github.com/master3-blank-template/Master3-Lite.
+Provides the work of templates [Master3](https://github.com/master3-blank-template/Master3) and [Master3Lite](https://github.com/master3-blank-template/Master3-Lite).
 
 Contains a full copy of the UIkit repository with the exception of tests.
 
