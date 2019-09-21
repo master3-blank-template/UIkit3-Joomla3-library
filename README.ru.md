@@ -10,6 +10,8 @@
 
 Обеспечивает работу шаблонов [Master3](https://github.com/master3-blank-template/Master3) и [Master3Lite](https://github.com/master3-blank-template/Master3-Lite).
 
+Является независимым самостоятельным обновляемым расширением.
+
 Содержит полную копию репозитория UIkit за исключением тестов.
 
 Пример использования:
