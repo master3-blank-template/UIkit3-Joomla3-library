@@ -63,4 +63,4 @@ Usage:
 
 ---
 
-UIkit is an Open Source project developed by [YOOtheme](http://yootheme.com/site/images/yootheme-logo.svg).
+UIkit is an Open Source project developed by [YOOtheme](http://yootheme.com/).
