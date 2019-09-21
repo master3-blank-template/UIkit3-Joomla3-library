@@ -22,10 +22,10 @@ Usage:
 /**
  * Method to load the UIkit JavaScript & CSS framework into the document head
  *
- * @param   boolean  $icons       True to load UIkit icons [optional]
- * @param   mixed    $css         True to load UIkit styles [optional]
- * @param   boolean  $rtl         True to enable RTL mode in styles [optional]
- * @param   boolean  $min         True to enable the minimized version [optional]
+ * @param   boolean  $icons       True to load UIkit icons (default true) [optional]
+ * @param   mixed    $css         True to load UIkit styles (default true) [optional]
+ * @param   boolean  $rtl         True to enable RTL mode in styles (default false) [optional]
+ * @param   boolean  $min         True to enable the minimized version (default true) [optional]
  *
  * @return  void
  */
@@ -35,7 +35,7 @@ Usage:
 /**
  * Method to load the UIkit JavaScript clean framework into the document head
  *
- * @param   boolean  $min         True to enable the minimized version [optional]
+ * @param   boolean  $min         True to enable the minimized version (default true) [optional]
  *
  * @return  void
  */
@@ -45,7 +45,7 @@ Usage:
 /**
  * Method to load the UIkit.Icons JavaScript framework into the document head
  *
- * @param   boolean  $min         True to enable the minimized version [optional]
+ * @param   boolean  $min         True to enable the minimized version (default true) [optional]
  *
  * @return  void
  */
@@ -55,8 +55,8 @@ Usage:
 /**
  * Method to load the UIkit CSS framework into the document head
  *
- * @param   boolean  $rtl         True to enable RTL mode in styles [optional]
- * @param   boolean  $min         True to enable the minimized version [optional]
+ * @param   boolean  $rtl         True to enable RTL mode in styles (default false) [optional]
+ * @param   boolean  $min         True to enable the minimized version (default true) [optional]
  *
  * @return  void
  */

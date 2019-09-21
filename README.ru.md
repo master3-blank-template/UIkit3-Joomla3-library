@@ -20,10 +20,10 @@
 /**
  * Метод подключает набор файлов фреймворка UIkit
  *
- * @param   boolean  $icons       True для подключения файла иконок [optional]
- * @param   mixed    $css         True для подключения стилей [optional]
- * @param   boolean  $rtl         True для подключения версии RTL [optional]
- * @param   boolean  $min         True для подключения минифицированной версии [optional]
+ * @param   boolean  $icons       True для подключения файла иконок (true по умолчанию) [optional]
+ * @param   mixed    $css         True для подключения стилей (true по умолчанию) [optional]
+ * @param   boolean  $rtl         True для подключения версии RTL (false по умолчанию) [optional]
+ * @param   boolean  $min         True для подключения минифицированной версии (true по умолчанию) [optional]
  *
  * @return  void
  */
@@ -33,7 +33,7 @@
 /**
  * Метод подгружает основной файл скрипта UIkit
  *
- * @param   boolean  $min         True для подключения минифицированной версии [optional]
+ * @param   boolean  $min         True для подключения минифицированной версии (true по умолчанию) [optional]
  *
  * @return  void
  */
@@ -43,7 +43,7 @@
 /**
  * Метод подгружает файл иконок UIkit
  *
- * @param   boolean  $min         True для подключения минифицированной версии [optional]
+ * @param   boolean  $min         True для подключения минифицированной версии (true по умолчанию) [optional]
  *
  * @return  void
  */
@@ -53,8 +53,8 @@
 /**
  * Метод подключает CSS-стили UIkit
  *
- * @param   boolean  $rtl         True для подключения версии RTL [optional]
- * @param   boolean  $min         True для подключения минифицированной версии [optional]
+ * @param   boolean  $rtl         True для подключения версии RTL (false по умолчанию) [optional]
+ * @param   boolean  $min         True для подключения минифицированной версии (true по умолчанию) [optional]
  *
  * @return  void
  */
