@@ -2,7 +2,7 @@
 
 # UIkit3 library for Joomla3
 
-[![Download](https://img.shields.io/badge/-download-28A5F5.svg?style=for-the-badge)](https://master3.alekvolsk.info/uikit)
+[![Download](https://img.shields.io/badge/-download-28A5F5.svg?style=for-the-badge)](https://master3.alekvolsk.info/download/download-uikit)
 [![Documentation](https://img.shields.io/badge/-documentation-28A5F5.svg?style=for-the-badge)](https://getuikit.com)
 
 ![Last Update](https://img.shields.io/badge/last_update-2019.09.22-28A5F5.svg?style=for-the-badge)
