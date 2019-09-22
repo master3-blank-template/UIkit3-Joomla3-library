@@ -6,6 +6,8 @@
 [![Documentation Library](https://img.shields.io/badge/-documentation_library-28A5F5.svg?style=for-the-badge)](https://master3.alekvolsk.info/documentation/api-uikit)
 [![Documentation UIkit](https://img.shields.io/badge/-documentation_uikit-28A5F5.svg?style=for-the-badge)](https://getuikit.com)
 
+![Joomla](https://img.shields.io/badge/joomla-3.9+-1A3867.svg?style=for-the-badge)
+![Php](https://img.shields.io/badge/php-5.6+-8892BF.svg?style=for-the-badge)
 ![Last Update](https://img.shields.io/badge/last_update-2019.09.22-28A5F5.svg?style=for-the-badge)
 ![Version](https://img.shields.io/badge/version-3.2.0-1e87f0.svg?style=for-the-badge)
 
