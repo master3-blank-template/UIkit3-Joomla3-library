@@ -5,8 +5,8 @@
 [![Download](https://img.shields.io/badge/-download-28A5F5.svg?style=for-the-badge)](https://master3.alekvolsk.info/uikit)
 [![Documentation](https://img.shields.io/badge/-documentation-28A5F5.svg?style=for-the-badge)](https://getuikit.com)
 
-![Last Update](https://img.shields.io/badge/last_update-2019.09.22-28A5F5.svg?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-3.2.0-1e87f0.svg?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/last_update-2019.10.02-28A5F5.svg?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-3.2.1-1e87f0.svg?style=for-the-badge)
 
 _description in Russian [here](README.ru.md)_
 
