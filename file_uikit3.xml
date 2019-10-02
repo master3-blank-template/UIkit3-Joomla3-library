@@ -10,7 +10,7 @@
     <license>GNU GPL v3 or later; see http://www.gnu.org/licenses/gpl-3.0.txt</license>
     <description><![CDATA[
         <span style="display:inline-flex;align-items:center;margin:30px 0;color:#1E87F0;text-decoration:none;">
-            <svg height="50" viewBox="0 0 168 155" xmlns="http://www.w3.org/2000/svg"><spanath fill="#1E87F0" d="M117.4 33.3L93.3 47.9l27.8 15.8v41.5L83.8 126l-36.7-20.8V73L23 60.7v58.9l59.9 35.2 62.1-35.2V49.2l-27.6-15.9zM106.2 27.5L82.9 14 58.6 29.1l23.6 13z"/></svg>
+            <svg height="50" viewBox="0 0 168 155" xmlns="http://www.w3.org/2000/svg"><path fill="#1E87F0" d="M117.4 33.3L93.3 47.9l27.8 15.8v41.5L83.8 126l-36.7-20.8V73L23 60.7v58.9l59.9 35.2 62.1-35.2V49.2l-27.6-15.9zM106.2 27.5L82.9 14 58.6 29.1l23.6 13z"/></svg>
             <span style="display:block;margin-left:20px;font-weight:400;">
                 <span style="display:block;font-size:20px;line-height:20px;margin-bottom:10px;"><strong>UIkit3</strong></span>
                 <span style="display:block;font-size:15px;line-height:20px;"><strong>A lightweight and modular front-end framework for developing fast and powerful web interfaces.</strong></span>
