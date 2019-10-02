@@ -2,9 +2,12 @@
 
 # UIkit3 library for Joomla3
 
-[![Download](https://img.shields.io/badge/-download-28A5F5.svg?style=for-the-badge)](https://master3.alekvolsk.info/uikit)
-[![Documentation](https://img.shields.io/badge/-documentation-28A5F5.svg?style=for-the-badge)](https://getuikit.com)
+[![Download](https://img.shields.io/badge/-download-28A5F5.svg?style=for-the-badge)](https://master3.alekvolsk.info/ru/download/download-uikit)
+[![Documentation Library](https://img.shields.io/badge/-documentation_library-28A5F5.svg?style=for-the-badge)](https://master3.alekvolsk.info/ru/documentation/api-uikit)
+[![Documentation UIkit](https://img.shields.io/badge/-documentation_uikit-28A5F5.svg?style=for-the-badge)](https://getuikit.com)
 
+![Joomla](https://img.shields.io/badge/joomla-3.9+-1A3867.svg?style=for-the-badge)
+![Php](https://img.shields.io/badge/php-5.6+-8892BF.svg?style=for-the-badge)
 ![Last Update](https://img.shields.io/badge/last_update-2019.10.02-28A5F5.svg?style=for-the-badge)
 ![Version](https://img.shields.io/badge/version-3.2.1-1e87f0.svg?style=for-the-badge)
 
@@ -14,52 +17,7 @@
 
 Содержит полную копию репозитория UIkit за исключением тестов.
 
-Пример использования:
-
-```php
-/**
- * Метод подключает набор файлов фреймворка UIkit
- *
- * @param   boolean  $icons       True для подключения файла иконок (true по умолчанию) [optional]
- * @param   mixed    $css         True для подключения стилей (true по умолчанию) [optional]
- * @param   boolean  $rtl         True для подключения версии RTL (false по умолчанию) [optional]
- * @param   boolean  $min         True для подключения минифицированной версии (true по умолчанию) [optional]
- *
- * @return  void
- */
-\Joomla\CMS\HTML\HTMLHelper::_('uikit3.framework', $isIcons, $isCss, $isRTL, $isMinified);
-
-
-/**
- * Метод подгружает основной файл скрипта UIkit
- *
- * @param   boolean  $min         True для подключения минифицированной версии (true по умолчанию) [optional]
- *
- * @return  void
- */
-\Joomla\CMS\HTML\HTMLHelper::_('uikit3.js', $isMinified);
-
-
-/**
- * Метод подгружает файл иконок UIkit
- *
- * @param   boolean  $min         True для подключения минифицированной версии (true по умолчанию) [optional]
- *
- * @return  void
- */
-\Joomla\CMS\HTML\HTMLHelper::_('uikit3.icons', $isMinified);
-
-
-/**
- * Метод подключает CSS-стили UIkit
- *
- * @param   boolean  $rtl         True для подключения версии RTL (false по умолчанию) [optional]
- * @param   boolean  $min         True для подключения минифицированной версии (true по умолчанию) [optional]
- *
- * @return  void
- */
-\Joomla\CMS\HTML\HTMLHelper::_('uikit3.css', $isRTL, $isMinified);
-```
+Примеры использования доступны в документации библиотеки.
 
 ---
 
