@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.9" type="file" client="site" method="upgrade">
     <name>UIkit3 library</name>
-    <version>3.4.6</version>
-    <creationDate>May 2020</creationDate>
+    <version>3.5.3</version>
+    <creationDate>June 2020</creationDate>
     <author>Aleksey A. Morozov</author>
     <authorEmail>alekvolsk@yandex.ru</authorEmail>
     <authorUrl>https://master3.alekvolsk.info/</authorUrl>
@@ -17,13 +17,13 @@
             </span>
         </span>
         <span style="display:block;margin-bottom:20px;">
-            <img src="https://img.shields.io/badge/VERSION-3.4.6-28A5F5.svg?style=for-the-badge" alt="UIkit version" style="margin-right:10px">
+            <img src="https://img.shields.io/badge/VERSION-3.5.3-28A5F5.svg?style=for-the-badge" alt="UIkit version" style="margin-right:10px">
             <a href="https://getuikit.com/" target="_blank" style="margin-right:10px"><img src="https://img.shields.io/badge/-official_page-28A5F5.svg?style=for-the-badge" alt="Official page"></a>
             <a href="https://github.com/uikit/uikit" target="_blank" style="margin-right:10px"><img src="https://img.shields.io/badge/-github_page-28A5F5.svg?style=for-the-badge" alt="GitHub page"></a>
         </span>
         <span style="display:block;margin-bottom:30px;font-weight:400;">
             <span style="display:block;margin-bottom:10px;">UIkit &copy; Copyright <a href="https://yootheme.com/" target="_blank"><u>YOOtheme</u></a> GmbH under the <a href="https://github.com/uikit/uikit/blob/develop/LICENSE.md" target="_blank"><u>MIT license</u></a>. All right reserved.</span>
-            <span style="display:block;margin-bottom:10px;">Joomla library &copy; 2019 <a href="https://alekvolsk.pw" target="_blank"><u>Aleksey A. Morozov</u></a>. All rights reserved.</span>
+            <span style="display:block;margin-bottom:10px;">Joomla library &copy; <a href="https://alekvolsk.pw" target="_blank"><u>Aleksey A. Morozov</u></a>. All rights reserved.</span>
             <span style="display:block;margin-bottom:10px;">If you want to support the project, you can donate us via <a href="https://www.paypal.me/alekvolsk" target="_blank"><u>PayPal</u></a> or <a href="https://money.yandex.ru/to/410011461392459" target="_blank"><u>Yandex</u></a>.</span>
             <span style="display:block;">The template changelog is available on the <a href="https://github.com/uikit/uikit/blob/develop/CHANGELOG.md" target="_blank"><u>uikit changelog file</u></a>.</span>
         </span>
