@@ -8,8 +8,8 @@
 
 ![Joomla](https://img.shields.io/badge/joomla-3.9+-1A3867.svg?style=for-the-badge)
 ![Php](https://img.shields.io/badge/php-5.6+-8892BF.svg?style=for-the-badge)
-![Last Update](https://img.shields.io/badge/last_update-2020.06.02-28A5F5.svg?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-3.5.3-1e87f0.svg?style=for-the-badge)
+![Last Update](https://img.shields.io/badge/last_update-2020.06.13-28A5F5.svg?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-3.5.4-1e87f0.svg?style=for-the-badge)
 
 _description in Russian [here](README.ru.md)_
 
