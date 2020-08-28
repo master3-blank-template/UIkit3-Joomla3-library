@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.9" type="file" client="site" method="upgrade">
     <name>UIkit3 library</name>
-    <version>3.5.6</version>
+    <version>3.5.7</version>
     <creationDate>August 2020</creationDate>
     <author>Aleksey A. Morozov</author>
     <authorEmail>alekvolsk@yandex.ru</authorEmail>
