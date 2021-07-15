@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.9" type="file" client="site" method="upgrade">
     <name>UIkit3 library</name>
-    <version>3.7.0</version>
-    <creationDate>June 2021</creationDate>
+    <version>3.7.1</version>
+    <creationDate>July 2021</creationDate>
     <author>Aleksey A. Morozov</author>
     <authorEmail>alekvolsk@yandex.ru</authorEmail>
     <authorUrl>https://master3.alekvolsk.info/</authorUrl>
@@ -17,7 +17,7 @@
             </span>
         </span>
         <span style="display:block;margin-bottom:20px;">
-            <img src="https://img.shields.io/badge/VERSION-3.7.0-28A5F5.svg?style=for-the-badge" alt="UIkit version" style="margin-right:10px">
+            <img src="https://img.shields.io/badge/VERSION-3.7.1-28A5F5.svg?style=for-the-badge" alt="UIkit version" style="margin-right:10px">
             <a href="https://getuikit.com/" target="_blank" style="margin-right:10px"><img src="https://img.shields.io/badge/-official_page-28A5F5.svg?style=for-the-badge" alt="Official page"></a>
             <a href="https://github.com/uikit/uikit" target="_blank" style="margin-right:10px"><img src="https://img.shields.io/badge/-github_page-28A5F5.svg?style=for-the-badge" alt="GitHub page"></a>
         </span>
