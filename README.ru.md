@@ -2,6 +2,8 @@
 
 # UIkit3 library for Joomla3
 
+Проект объявлен устаревшим и не подлежит дальнейшему развитию.
+
 [![Download](https://img.shields.io/badge/-download-28A5F5.svg?style=for-the-badge)](https://master3.alekvolsk.info/ru/download/download-uikit)
 [![Documentation Library](https://img.shields.io/badge/-documentation_library-28A5F5.svg?style=for-the-badge)](https://master3.alekvolsk.info/ru/documentation/api-uikit)
 [![Documentation UIkit](https://img.shields.io/badge/-documentation_uikit-28A5F5.svg?style=for-the-badge)](https://getuikit.com)
